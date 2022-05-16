@@ -1,26 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+	<a href="https://twitter.com/ABoulaajaili"><img src="img/twitter.png" width=20 alt="Twitter" ></a>
+	<a href="https://www.linkedin.com/in/atman-boulaajaili-58033722a/"><img src="img/linkedin.png" width=20 alt="LinkedIn"></a>
+	<a href="https://github.com/Elon-Fask"><img src="img/github.png" style="background-color:#ffffff" width=20 alt="GitHub"></a>
 
-
-
-
-
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: https://img.icons8.com/color/48/000000/twitter--v2.png (twitter icon without padding)
-[2.2]: https://img.icons8.com/color/48/000000/linkedin-circled--v1.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/ABoulaajaili
-[2]: https://www.linkedin.com/in/atman-boulaajaili-58033722a/
-
-
+</p>
 
 
 
