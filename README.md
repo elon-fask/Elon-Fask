@@ -1,5 +1,7 @@
 ### Hi there 👋 call me Elon
 
+##### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <h1 align="center" style="font-size:15px">
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
 </h1>
