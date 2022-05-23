@@ -1,10 +1,6 @@
 ### Hi there 👋 call me Elon
 
-<<<<<<< HEAD
-##### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Elon-Fusk})
-=======
 ##### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Elon-Fusk)
->>>>>>> fb95d71e0be85548eac96cfd9a75d5920dcc7065
 
 <h1 align="center" style="font-size:15px">
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
