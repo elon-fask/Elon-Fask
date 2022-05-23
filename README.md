@@ -1,10 +1,6 @@
 ### Hi there 👋 call me Elon
 
-<<<<<<< HEAD
-##### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Elon-Fusk})
-=======
 ##### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Elon-Fusk)
->>>>>>> fb95d71e0be85548eac96cfd9a75d5920dcc7065
 
 <h1 align="center" style="font-size:15px">
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
@@ -25,14 +21,12 @@
 
 <br/>
 
-<a href="https://www.-inkedin.com/in/andres-villegas-79867ab7/"> ![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href="https://twitter.com/Elon-Fask">![Twitter badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
-<a href="https://www.instagram.com/doktordres/">![Instagram badge](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
-
-
-
+<a href="https://www.-inkedin.com/in/atman-boulaajaili-58033722a/"> ![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://twitter.com/ABoulaajaili">![Twitter badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 
 <!--
+<a href="https://github.com/Elon-Fask">![Instagram badge](https://img.shields.io/badge/-Github-833AB4?style=plastic&logo=Github)</a>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elon&Fask_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 -->
 
