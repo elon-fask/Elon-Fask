@@ -37,7 +37,7 @@
 <a href="https://github.com/Elon-Fask"><img src="img/github.png" style="background-color:#ffffff" width=20 alt="GitHub"></a>
 </p>
 
-<!--
+
 ## Hi, I am Erica Grundy! 
 </br>
 
@@ -77,10 +77,9 @@
   ![Snake animation](https://github.com/Elon-Fask/Elon-Fask/blob/output/github-contribution-grid-snake.svg)
  
 </div>
--->
 
-![Snake animation](https://github.com/Elon-Fask/Elon-Fask/blob/output/github-contribution-grid-snake.svg)
- 
+
+
 
 
 
