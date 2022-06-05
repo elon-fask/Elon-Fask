@@ -7,7 +7,7 @@
 </h1>
 
 #### - 🔭 I’m currently working on developping my [social network](https://twitter.com/ABoulaajaili)
-#### Started my First internship at [Simplon.co](https://) 
+#### - 🚀 Started my First internship at [Simplon.co](https://) 
 
 
 #### - 🌱 I’m currently learning advance python programming with data science 
