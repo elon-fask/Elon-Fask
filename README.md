@@ -19,25 +19,20 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elon-Fask&theme=synthwave&show_icons=true&count_private=true " GutHub Stats")
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elon-Fask&theme=dark&show_icons=true&count_private=true " GutHub Stats")
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask&theme=synthwave "Top Languages Card")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask&theme=dark "Top Languages Card")
 
 <br/>
 
-<a href="https://www.-inkedin.com/in/atman-boulaajaili-58033722a/"> ![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://www.linkedin.com/in/atman-boulaajaili-58033722a/"> ![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/ABoulaajaili">![Twitter badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
-
-<!--
-<a href="https://github.com/Elon-Fask">![Instagram badge](https://img.shields.io/badge/-Github-833AB4?style=plastic&logo=Github)</a>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elon&Fask_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
--->
+<a href="https://github.com/Elon-Fask">![Github badge](https://img.shields.io/badge/-Github-833AB4?style=plastic&logo=Github)</a>
 
 <p align="center">
-	<a href="https://twitter.com/ABoulaajaili"><img src="img/twitter.png" width=20 alt="Twitter" ></a>
-	<a href="https://www.linkedin.com/in/atman-boulaajaili-58033722a/"><img src="img/linkedin.png" width=20 alt="LinkedIn"></a>
-	<a href="https://github.com/Elon-Fask"><img src="img/github.png" style="background-color:#ffffff" width=20 alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/atman-boulaajaili-58033722a/"><img src="img/linkedin.png" width=20 alt="LinkedIn"></a>
+<a href="https://twitter.com/ABoulaajaili"><img src="img/twitter.png" width=20 alt="Twitter" ></a>
+<a href="https://github.com/Elon-Fask"><img src="img/github.png" style="background-color:#ffffff" width=20 alt="GitHub"></a>
 </p>
 
 
