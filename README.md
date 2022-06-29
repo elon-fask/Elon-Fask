@@ -6,11 +6,11 @@
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
 </h1>
 
-#### - 🔭 I’m currently working on developping my [social network](https://twitter.com/ABoulaajaili)
-#### - 🚀 Started my First internship at [Simplon.co](https://simplon.co/) 
-#### - 🌱 I’m currently learning advance python programming with data science 
 #### - 🤖 Working on a Natural Language Processing project for my startup in Morocco.
-
+#### - 🔭 Developping my [social network](https://twitter.com/ABoulaajaili)
+#### - 🚀 Started my First internship at [Simplon.co](https://simplon.co/) 
+#### - 🌱 Advancing in python programming with data science
+#### - 🤔 Web 3.0
 
 ## GitHub Stats
 
