@@ -23,6 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask&theme=dark "Top Languages Card")](https://github.com/Elon-Fask/Elon-Fask)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask)](https://github.com/Elon-Fask/Elon-Fask)
 
 <br/>
 
