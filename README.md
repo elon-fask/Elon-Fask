@@ -2,6 +2,7 @@
 
 ##### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Elon-Fusk)
 
+
 <h1 align="center" style="font-size:15px">
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
 </h1>
@@ -12,12 +13,18 @@
 #### - 🌱 Advancing in python programming with data science
 #### - 🤔 Web 3.0
 
-## GitHub Stats
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask)](https://github.com/anuraghazra/github-readme-stats)
--->
+# GitHub Stats 
 
 <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elon-Fask&theme=dark&show_icons=true&count_private=true " GutHub Stats")
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask&theme=dark)](https://github.com/Elon-Fask/Elon-Fask)
+
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elon-Fask&theme=dark&show_icons=true&count_private=true " GutHub Stats") -->
 
@@ -35,6 +42,8 @@
 <a href="https://www.linkedin.com/in/atman-boulaajaili-58033722a/"> ![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/ABoulaajaili">![Twitter badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 <a href="https://github.com/Elon-Fask">![Github badge](https://img.shields.io/badge/-Github-833AB4?style=plastic&logo=Github)</a>
+<a href="https://github.com/Elon-Fask">![Github badge](https://img.shields.io/badge/-Github-833AB4?style=plastic&logo=Github)</a>
+
 
 
 
