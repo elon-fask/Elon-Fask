@@ -21,7 +21,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elon-Fask&theme=dark&show_icons=true&count_private=true " GutHub Stats")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask&theme=dark "Top Languages Card")](https://github.com/Elon-Fask/Elon-Fask)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask&theme=dark "Top Languages Card")
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask&theme=dark)](https://github.com/Elon-Fask/Elon-Fask)
 
