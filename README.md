@@ -21,7 +21,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elon-Fask&theme=dark&show_icons=true&count_private=true " GutHub Stats")
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask&theme=dark "Top Languages Card")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask)](https://github.com/Elon-Fask/Elon-Fask)
 
 
 <br/>
