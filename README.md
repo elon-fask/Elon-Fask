@@ -23,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask&theme=dark "Top Languages Card")](https://github.com/Elon-Fask/Elon-Fask)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask&theme=dark)](https://github.com/Elon-Fask/Elon-Fask)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask)](https://github.com/Elon-Fask/Elon-Fask)
 
 <br/>
 
@@ -36,6 +36,12 @@
 <a href="https://twitter.com/ABoulaajaili"><img src="img/twitter.png" width=20 alt="Twitter" ></a>
 <a href="https://github.com/Elon-Fask"><img src="img/github.png" style="background-color:#ffffff" width=20 alt="GitHub"></a>
 </p>
+
+
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 
 <!--
 ## Hi, I am Erica Grundy! 
