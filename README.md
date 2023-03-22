@@ -1,7 +1,7 @@
 ### Hi there 👋 call me Elon
 
 ##### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Elon-Fusk)
-<a href="https://wakatime.com/@07c5db97-65f0-496e-9750-2403d83d5220"><img src="https://wakatime.com/badge/user/07c5db97-65f0-496e-9750-2403d83d5220.svg" alt="Total time coded since Oct 27 2022" /></a>
+##### wakatime tracker <a href="https://wakatime.com/@07c5db97-65f0-496e-9750-2403d83d5220"><img src="https://wakatime.com/badge/user/07c5db97-65f0-496e-9750-2403d83d5220.svg" alt="Total time coded since Oct 27 2022" /></a>
 
 
 <h1 align="center" style="font-size:15px">
