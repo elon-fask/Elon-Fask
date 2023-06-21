@@ -7,7 +7,8 @@
 
 ##### wakatime tracker <a href="https://wakatime.com/@07c5db97-65f0-496e-9750-2403d83d5220"><img src="https://wakatime.com/badge/user/07c5db97-65f0-496e-9750-2403d83d5220.svg" alt="Total time coded since Oct 27 2022" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=1500&pause=1000&center=true&width=435&lines=Elon+Fask;Python;JAVA;Software+Engineer;Data Science;Artificial+Intelligence;CyberSecurity" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=35&duration=1500&pause=1000&center=true&vCenter=true&width=450&lines=Elon+Fask;Python;JAVA;Software+Engineer;Data Science;AI ML;CyberSecurity;" alt="Typing SVG" style="center=true" /></a>
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Elon+Fask)](https://git.io/typing-svg) -->
 
