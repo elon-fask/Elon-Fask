@@ -1,8 +1,17 @@
-### Hi there 👋 call me Elon
+### Hi there 👋 
 
-##### Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Elon-Fusk)
+##### Glad to see you here  <p align="left"> <img src="https://komarev.com/ghpvc/?username=elon-fask&label=Profile%20views&color=0e75b6&style=flat" alt="elon-fask" /> </p>
+
+ <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=elon-fask&label=Profile%20views&color=0e75b6&style=flat" alt="elon-fask" /> </p> -->
+
+
 ##### wakatime tracker <a href="https://wakatime.com/@07c5db97-65f0-496e-9750-2403d83d5220"><img src="https://wakatime.com/badge/user/07c5db97-65f0-496e-9750-2403d83d5220.svg" alt="Total time coded since Oct 27 2022" /></a>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Elon Fask ...&hearts;++;Python Developer &hearts;++;Linux &hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
+</p>
+
+## <picture><img src = "https://github.com/elon-fask/Elon-Fask/img/about_me.gif" width = 50px></picture> **About me**
 
 <h1 align="center" style="font-size:15px">
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
@@ -37,6 +46,7 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask&theme=dark)](https://github.com/Elon-Fask/Elon-Fask) -->
 
+## <b> Let's Connect..!</b><img src="https://github.com/Elon-Fask/Elon-Fask/handshake.gif" width ="80">
 
 <br/>
 
