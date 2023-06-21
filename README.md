@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Elon Fask ...&hearts;++;Python Developer &hearts;++;Linux &hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
 </p>
 
-## <picture><img src = "https://github.com/elon-fask/Elon-Fask/img/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width = 50px></picture> **About me**
 
 <h1 align="center" style="font-size:15px">
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
