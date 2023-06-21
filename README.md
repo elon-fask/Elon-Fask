@@ -7,9 +7,13 @@
 
 ##### wakatime tracker <a href="https://wakatime.com/@07c5db97-65f0-496e-9750-2403d83d5220"><img src="https://wakatime.com/badge/user/07c5db97-65f0-496e-9750-2403d83d5220.svg" alt="Total time coded since Oct 27 2022" /></a>
 
-<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=1500&pause=1000&center=true&width=435&lines=Elon+Fask;Python;JAVA;Software+Engineer;Data Science;Artificial+Intelligence;CyberSecurity" alt="Typing SVG" /></a>
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Elon+Fask)](https://git.io/typing-svg) -->
+
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Elon Fask ...&hearts;++;Python Developer &hearts;++;Linux &hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
-</p>
+</p> -->
 
 ## <picture><img src = "https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width = 50px></picture> **About me**
 
@@ -46,7 +50,7 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask&theme=dark)](https://github.com/Elon-Fask/Elon-Fask) -->
 
-## <b> Let's Connect..!</b><img src="https://github.com/Elon-Fask/Elon-Fask/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/handshake.gif" width ="80">
 
 <br/>
 
