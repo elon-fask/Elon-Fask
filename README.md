@@ -56,7 +56,7 @@
 
 # <b> Let's Connect..!</b><img src="img/handshake.gif" width ="300">
 
-<a href="https://www.linkedin.com/in/atman-boulaajaili-58033722a/" ><img width="170" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
+<a href="https://www.linkedin.com/in/atman-boulaajaili/" ><img width="170" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
 <a href="https://twitter.com/ABoulaajaili"><img width="150" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=x"> </a>
 <a href="https://github.com/Elon-Fask"><img width="150" src="https://img.shields.io/badge/-Github-833AB4?style=plastic&logo=Github">
 </a>
