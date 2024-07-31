@@ -1,24 +1,20 @@
-### Hi there 👋 
+## Hi there 👋 
 
-##### Glad to see you here  <p align="left"> <img src="https://komarev.com/ghpvc/?username=elon-fask&label=Profile%20views&color=0e75b6&style=flat" alt="elon-fask" /> </p>
-
- <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=elon-fask&label=Profile%20views&color=0e75b6&style=flat" alt="elon-fask" /> </p> -->
+### Glad to see you here  [![](https://visitcount.itsvg.in/api?id=elon-fask&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 
-##### wakatime tracker <a href="https://wakatime.com/@07c5db97-65f0-496e-9750-2403d83d5220"><img src="https://wakatime.com/badge/user/07c5db97-65f0-496e-9750-2403d83d5220.svg" alt="Total time coded since Oct 27 2022" /></a>
+### wakatime tracker <a href="https://wakatime.com/@07c5db97-65f0-496e-9750-2403d83d5220"><img src="https://wakatime.com/badge/user/07c5db97-65f0-496e-9750-2403d83d5220.svg" alt="Total time coded since Oct 27 2022" /></a>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=35&duration=1500&pause=1000&center=true&vCenter=true&width=450&lines=Elon+Fask;Python;JAVA;Software+Engineer;Data Science;AI ML;CyberSecurity;" alt="Typing SVG" style="center=true" /></a>
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Elon+Fask)](https://git.io/typing-svg) -->
 
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Elon Fask ...&hearts;++;Python Developer &hearts;++;Linux &hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
-</p> -->
 
-## <picture><img src = "https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width = 50px></picture> **About me**
+![](/img/about_me.gif "position: center")
 
-<h1 align="center" style="font-size:15px">
+
+<h1 align="center" style="font-size:25px">
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
 </h1>
 
@@ -29,17 +25,21 @@
 #### - 🚀 Simplon.co MAGHREB certified Full-Stack Web and Mobile Developer [Simplon.co](https://simplon.co/) 
 #### - 🌱 Advancing in python programming with data science
 #### - 🤔 Web 3.0
+---
+### 🛠️ Some Tools and Languages I Work With:
+
+[![My Skills](https://skillicons.dev/icons?i=kali,ubuntu,java,go,python,django,flask,fastapi,gcp,kafka,selenium,neovim,vim,arch,github,git,kubernetes,docker,aws,bash,mongo,mysql,postgresql,&perline=9)](https://skillicons.dev)
+
+--- 
+#  My Stats 📊
 
 
+<div align="center">
+  <img src="https://voids-github-readme-stats.vercel.app/api?username=elon-fask&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=0" height="250" alt="stats graph"/>
+  <img src="https://voids-github-readme-stats.vercel.app/api/top-langs?username=elon-fask&locale=en&hide=lua,objective-c,hide_title=false&layout=compact&card_width=319&langs_count=10&theme=material-palenight&hide_border=false&order=2" height="250" alt="languages graph"/>
+</div>
 
-# GitHub Stats 
-
-<img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elon-Fask&theme=dark&show_icons=true&count_private=true " GutHub Stats")
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elon-Fask&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask&theme=dark)](https://github.com/Elon-Fask/Elon-Fask)
 
@@ -54,14 +54,12 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask&theme=dark)](https://github.com/Elon-Fask/Elon-Fask) -->
 
-## <b> Let's Connect..!</b><img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/handshake.gif" width ="80">
+# <b> Let's Connect..!</b><img src="img/handshake.gif" width ="300">
 
-<br/>
-
-<a href="https://www.linkedin.com/in/atman-boulaajaili-58033722a/"> ![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href="https://twitter.com/ABoulaajaili">![Twitter badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
-<a href="https://github.com/Elon-Fask">![Github badge](https://img.shields.io/badge/-Github-833AB4?style=plastic&logo=Github)</a>
-<a href="https://github.com/Elon-Fask">![Github badge](https://img.shields.io/badge/-Github-833AB4?style=plastic&logo=Github)</a>
+<a href="https://www.linkedin.com/in/atman-boulaajaili-58033722a/" ><img width="170" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
+<a href="https://twitter.com/ABoulaajaili"><img width="150" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=x"> </a>
+<a href="https://github.com/Elon-Fask"><img width="150" src="https://img.shields.io/badge/-Github-833AB4?style=plastic&logo=Github">
+</a>
 
 
 
