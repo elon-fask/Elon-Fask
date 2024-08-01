@@ -13,7 +13,7 @@
 
 ![](/img/about_me.gif "position: center")
 
-![tryhackme stats](https://raw.githubusercontent.com/elon-fask/Elon-Fask/master/assets/thm_propic.png)
+<img width="300" src="https://tryhackme-badges.s3.amazonaws.com/ElonFask.png" alt="TryHackMe">
 
 <h1 align="center" style="font-size:25px">
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
