@@ -10,10 +10,9 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Elon+Fask)](https://git.io/typing-svg) -->
 
+<img width="300" src="https://tryhackme-badges.s3.amazonaws.com/ElonFask.png" alt="TryHackMe">
 
 ![](/img/about_me.gif "position: center")
-
-<img width="300" src="https://tryhackme-badges.s3.amazonaws.com/ElonFask.png" alt="TryHackMe">
 
 <h1 align="center" style="font-size:25px">
  I am always eager to experience new opportunities and come up with new ideas. I'm a fast learner who never stops learning. I love to learn more and teach whatever I learn to others.
