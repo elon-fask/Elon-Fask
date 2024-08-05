@@ -10,7 +10,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Elon+Fask)](https://git.io/typing-svg) -->
 
-<a href="https://tryhackme-badges.s3.amazonaws.com/ElonFask.png"> <img src="https://tryhackme-badges.s3.amazonaws.com/ElonFask.png" width=400 alt="TryHackMe"/></a>
+![](/assets/thm_propic.png  )
 
 ![](/img/about_me.gif "position: center")
 
