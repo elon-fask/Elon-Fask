@@ -6,11 +6,18 @@
 ### wakatime tracker <a href="https://wakatime.com/@07c5db97-65f0-496e-9750-2403d83d5220"><img src="https://wakatime.com/badge/user/07c5db97-65f0-496e-9750-2403d83d5220.svg" alt="Total time coded since Oct 27 2022" /></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=35&duration=1500&pause=1000&center=true&vCenter=true&width=450&lines=Elon+Fask;Python;JAVA;Software+Engineer;Data Science;AI ML;CyberSecurity;" alt="Typing SVG" style="center=true" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=35&duration=1500&pause=1000&center=true&vCenter=true&width=450&lines=Elon+Fask;Python;JAVA;Software+Engineer;Data Science;AI ML;CyberSecurity;" alt="Typing SVG" style="center=true" /></a> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&center=true&random=false&width=435&lines=Elon+Fask;Python+;GoLang;Software+Engineer;Data+Science+;AI+%26+ML+;CyberSecurity;web3)](https://git.io/typing-svg)
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Elon+Fask)](https://git.io/typing-svg) -->
 
-![](/assets/thm_propic.png  )
+<!-- ![](/assets/thm_propic.png  ) -->
+
+<!-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2902024" style='border:none;'></iframe> -->
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/ElonFask.png" alt="thm badge" />
+
 
 ![](/img/about_me.gif "position: center")
 
@@ -32,16 +39,22 @@
 
 --- 
 #  My Stats 📊
+![elon-fask's Stats](https://github-readme-stats.vercel.app/api?username=elon-fask&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) 
+![elon-fask's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elon-fask&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![elon-fask's Streak](https://github-readme-streak-stats.herokuapp.com/?user=elon-fask&theme=tokyonight&hide_border=false)
 
 
-<div align="center">
-  <img src="https://voids-github-readme-stats.vercel.app/api?username=elon-fask&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=0" height="250" alt="stats graph"/>
-  <img src="https://voids-github-readme-stats.vercel.app/api/top-langs?username=elon-fask&locale=en&hide=lua,objective-c,hide_title=false&layout=compact&card_width=319&langs_count=10&theme=material-palenight&hide_border=false&order=2" height="250" alt="languages graph"/>
-</div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elon-fask&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=0" height="250" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elon-fask&locale=en&hide=lua,objective-c,hide_title=false&layout=compact&card_width=319&langs_count=10&theme=material-palenight&hide_border=false&order=2" height="250" alt="languages graph"/>
+  
+</div> -->
+
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask&theme=dark)](https://github.com/Elon-Fask/Elon-Fask)
+<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elon_Fask&theme=dark)](https://github.com/Elon-Fask/Elon-Fask) -->
+[![elon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elonfask&theme=tokyonight)](https://github.com/elon-fask/Elon-Fask)
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elon-Fask&theme=dark&show_icons=true&count_private=true " GutHub Stats") -->
