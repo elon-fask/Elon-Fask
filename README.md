@@ -42,7 +42,7 @@
 ![elon-fask's Stats](https://github-readme-stats.vercel.app/api?username=elon-fask&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) 
 ![elon-fask's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elon-fask&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <!-- ![elon-fask's Streak](https://github-readme-streak-stats.herokuapp.com/?user=elon-fask&theme=tokyonight&hide_border=false) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elon-fask&theme=tokyonight)](https://git.io/streak-stats)
+[![elon-fask's Streak](https://streak-stats.demolab.com/?user=elon-fask&theme=tokyonight)](https://streak-stats.demolab.com/?user=elon-fask&theme=tokyonight)
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elon-fask&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=0" height="250" alt="stats graph"/>
