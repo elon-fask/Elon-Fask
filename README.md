@@ -27,11 +27,11 @@
 
 #### - 🏡 Living in Linux machine, can't live in a Windows machine !
 #### - 🌐 CyberSecurity and Networking Specialist
-#### - 💻 Python and Java Developer
-#### - 🤖 Working on a Natural Language Processing side-project for my startup in Morocco.
-#### - 🚀 Simplon.co MAGHREB certified Full-Stack Web and Mobile Developer [Simplon.co](https://simplon.co/) 
-#### - 🌱 Advancing in python programming with data science
-#### - 🤔 Web 3.0
+#### - 💻 Software Engineer and DevSecOps
+#### - 🤖 python, Go and bash human writting machine
+<!--#### - 🚀 Simplon.co MAGHREB certified Full-Stack Web and Mobile Developer [Simplon.co](https://simplon.co/) -->
+#### - 🌱 taking a shift into Bbp and vdp
+#### - 🖖 i hate me...
 ---
 ### 🛠️ Some Tools and Languages I Work With:
 
